@@ -1,0 +1,17 @@
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+.entete{
+    background-image: url(https://th.bing.com/th/id/OIP.xuZP-c-2tVf18pptuuF0ugHaEK?rs=1&pid=ImgDetMain);
+    background-size: cover;
+    display: block;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
